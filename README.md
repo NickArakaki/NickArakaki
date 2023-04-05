@@ -9,8 +9,6 @@
   </h1>
 </div>
 
----
-
 ### About Me:
 I am a full-stack software engineer who is passionate about using technology to make a positive impact on the world.
 
