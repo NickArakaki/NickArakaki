@@ -47,4 +47,7 @@ Here are a few of the projects I have worked on, please check them out:
     <a href="https://www.linkedin.com/in/nicholas-arakaki-10aa66149/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/nicholas-arakaki-10aa66149/">
+      <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"/>
+    </a>
 </div>
