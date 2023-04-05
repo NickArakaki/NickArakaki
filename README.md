@@ -50,4 +50,7 @@ Here are a few of the projects I have worked on, please check them out:
     <a href="mailto:nicholas.w.arakaki@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="https://wellfound.com/u/nicholas-arakaki">
+      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="Gmail Badge"/>
+    </a>
 </div>
