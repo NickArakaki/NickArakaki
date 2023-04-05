@@ -43,7 +43,7 @@ Here are a few of the projects I have worked on, please check them out:
 
 ---
 ### GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nick-Arakaki&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickArakaki&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
